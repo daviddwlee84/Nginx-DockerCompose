@@ -10,6 +10,13 @@ docker compose up
 
 Go to [http://127.0.0.1:8089/](http://127.0.0.1:8089/)
 
+## Resources
+
+### Examples
+
+- [geshan/nginx-docker-compose: Example for a blog post about nginx docker compose](https://github.com/geshan/nginx-docker-compose)
+  - [How to use Nginx with Docker Compose effectively with examples](https://geshan.com.np/blog/2024/03/nginx-docker-compose/)
+
 ---
 
 Random links as notes
